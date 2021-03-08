@@ -25,7 +25,7 @@ public class Alumno
         Activo = false;
     }
 
-    public void activarAlumno() {
+     public void activarAlumno() {
         Activo = true;
     }
 }
