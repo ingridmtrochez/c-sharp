@@ -9,7 +9,7 @@ public class Inventario
         ListadeProductos = new List<Producto>();
 
         Producto a = new Producto("001", "iPhoneX", 0);
-        Producto b = new Producto("002", "Dell", 5);
+        Producto b = new Producto("002", "Laptop Dell", 5);
         Producto c = new Producto("003", "Monitor Samsung", 2);
         Producto d = new Producto("004", "Mouse", 100);
         Producto e = new Producto("005", "Headset", 25);
