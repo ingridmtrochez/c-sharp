@@ -100,8 +100,7 @@ public class Inventario
 
         movimientoInventario(codigo, Int32.Parse(cantidad), "+");
     }
-
-    public void ajusteNegativoDeInventario() {
+        public void ajusteNegativoDeInventario() {
         string codigo = "";
         string cantidad = "";
 
